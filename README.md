@@ -1,1 +1,3 @@
 # maven_market_powerbi
+# About The Project
+Maven Market is a multinational grocery chain operating 24 stores across three countries: 13 in the USA, 9 in Mexico, and 2 in Canada. This project delivers an in-depth analysis of sales, customer behavior, and store performance for a multinational grocery chain operating 24 stores across the USA (13), Mexico (9), and Canada (2). This project focuses on analyzing data from 1998 to uncover key insights into financial performance, customer behavior, and store operations across regions. The interactive dashboard provides actionable insights to support data-driven decision-making, offering a detailed view of sales trends, customer preferences, and store performance across all regions.
